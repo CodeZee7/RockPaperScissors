@@ -39,7 +39,13 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot1.png)
+![ss1](./img/Screenshot1.png)
+
+![ss2](./img/Screenshot2.png)
+
+![ss3](./img/Screenshot3.png)
+
+![ss4](./img/Screenshot4.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
